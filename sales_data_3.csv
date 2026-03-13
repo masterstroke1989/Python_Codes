@@ -1,0 +1,9 @@
+Product,Category,Region,Sales,Profit,Month
+Laptop,Electronics,North,1200,200,Jan
+Phone,Electronics,South,800,150,Jan
+Tablet,Electronics,West,600,100,Feb
+Chair,Furniture,East,400,80,Feb
+Sofa,Furniture,North,1500,300,Mar
+T-Shirt,Clothing,South,200,50,Mar
+Laptop,Electronics,East,1300,250,Apr
+Chair,Furniture,West,450,90,Apr
